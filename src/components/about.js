@@ -4,7 +4,7 @@ const about = () => {
     return(
         <div className ='ui raised very padded text container segment' style={{marginTop:'80px'}}>
             <h1> About us </h1>
-            <p> HI,Guys this is yaser admin of yashurm web</p>
+            <p> HI,Guys this is yaser is here admin of yashurm web</p>
         </div>
     )
 }
